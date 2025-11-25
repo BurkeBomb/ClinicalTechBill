@@ -1,0 +1,18 @@
+ionm-billing/
+├── src/
+│   ├── components/
+│   │   ├── AuthComponent.tsx
+│   │   ├── CaseCapture.tsx
+│   │   ├── MonitoringPanel.tsx
+│   │   ├── BillingPreview.tsx
+│   ├── hooks/
+│   │   ├── useMonitoringTimer.ts
+│   ├── utils/
+│   │   ├── billingUtils.ts
+│   │   ├── formatters.ts
+│   ├── firebase.ts
+│   ├── App.tsx
+│   ├── index.tsx
+├── package.json
+├── tailwind.config.js
+└── .env

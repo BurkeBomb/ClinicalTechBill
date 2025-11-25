@@ -1,0 +1,43 @@
+
+{
+  "name": "ionm-billing",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.2",
+    "firebase": "^10.7.1",
+    "lucide-react": "^0.268.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.49.2",
+    "react-scripts": "5.0.1",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.7.0",
+    "@typescript-eslint/parser": "^6.7.0",
+    "eslint": "^8.50.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^15.0.0",
+    "prettier": "^3.0.3",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "lint": "eslint 'src/**/*.{ts,tsx}'",
+    "format": "prettier --write 'src/**/*.{ts,tsx,css,json}'",
+    "format:check": "prettier --check 'src/**/*.{ts,tsx,css,json}'",
+    "prepare": "husky install"
+  },
+  "lint-staged": {
+    "src/**/*.{ts,tsx,js,json,css}": [
+      "prettier --write",
+      "eslint --fix"
+    ]
+  }
+}

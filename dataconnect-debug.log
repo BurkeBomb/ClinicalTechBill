@@ -44,3 +44,16 @@ E1125 11:07:16.747826     844 watch.go:31] Failed to load config from "/home/use
 E1125 11:07:26.751930     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
 E1125 11:07:36.745012     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
 E1125 11:07:46.742500     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:07:56.747551     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:06.743682     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:16.751803     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:26.751918     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:36.745008     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:46.744425     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:08:56.751605     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:09:06.744671     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:09:06.744705     844 watch.go:102] watchAllDir unable to walk dir `/home/user/ClinicalTechBill/public/dataconnect`: lstat /home/user/ClinicalTechBill/public/dataconnect: no such file or directory
+E1125 11:09:16.751789     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:09:26.751910     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:09:36.745006     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
+E1125 11:09:46.742936     844 watch.go:31] Failed to load config from "/home/user/ClinicalTechBill/public/dataconnect": could not find dataconnect.yaml in `/home/user/ClinicalTechBill/public/dataconnect`
